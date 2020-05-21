@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590078081686.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4249267174",
+    "id" : "178B1FBC",
+    "lastKnownWriteTime" : 1590078100,
+    "last_content_update" : 1590078100796,
+    "path" : "~/Documents/Data Science/Project2/file1.R",
+    "project_path" : "file1.R",
+    "properties" : {
+        "cursorPosition" : "0,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
